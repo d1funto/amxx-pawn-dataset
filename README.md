@@ -22,3 +22,7 @@ The dataset was compiled from a diverse set of community-driven and technical re
 **Total**: ~3,967 unique pages
 
 This collection captures a broad spectrum of documentation, tutorials, plugin references, and community discussions, making it well-suited for semantic search, retrieval-augmented generation (RAG), or embedding-based applications in the context of legacy modding ecosystems.
+
+# AMXX Pawn Dataset
+
+Collection of the latest include files for AMX Mod X 1.10 and ReAPI, providing ready-to-use headers and extensions for fast CS 1.6 plugin development.
