@@ -1,7 +1,5 @@
 # AMXX Pawn Dataset
 
----
-
 ### Dataset Overview
 
 The dataset was compiled from a diverse set of community-driven and technical resources related to AMX Mod X and Half-Life modding. The following sources contributed to the dataset, with the number of extracted pages indicated for each:
