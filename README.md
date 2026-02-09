@@ -15,8 +15,6 @@ The dataset was compiled from a diverse set of community-driven and technical re
 - **hlds.run**: 5 pages
 - **infotex58.ru**: 1 page
 - **wiki.alliedmods.net**: 48 pages
-
-**Other minor sources**
 - **GitHub README's (selected repositories)**: 4 pages
 - **Other minor sources**: 3 pages
 - **VipModular Wiki**: 10 pages
